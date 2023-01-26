@@ -30,4 +30,4 @@ F.R.I.E.N.D.S auto generated scipt:
 ![alt text](https://github.com/JolieFang/F.R.I.E.N.D.S-of-Thrones---A-script-generator-using-BART/blob/main/Friends.png)
 
 F.R.I.E.N.D.S of Thrones auto generated scipt:
-![alt text]()
+![alt text](https://github.com/JolieFang/F.R.I.E.N.D.S-of-Thrones---A-script-generator-using-BART/blob/main/Friends%20of%20Thrones.png)
