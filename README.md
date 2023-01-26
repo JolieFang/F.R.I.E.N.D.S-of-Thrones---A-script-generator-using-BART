@@ -27,4 +27,10 @@ training data as well as the input data after deployment.
 
 # Examples:
 F.R.I.E.N.D.S auto generated scipt:
+![alt text](https://github.com/JolieFang/F.R.I.E.N.D.S-of-Thrones---A-script-generator-using-BART/blob/main/Friends.png)
+
+Game of Thrones auto generated scipt:
 ![alt text]()
+
+F.R.I.E.N.D.S of Thrones 
+
