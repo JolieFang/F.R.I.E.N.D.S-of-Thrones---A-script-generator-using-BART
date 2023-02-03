@@ -13,7 +13,7 @@ conversation to go like? How would Tyrion’s incessant wit deal with Chandler�
 like quite an intriguing situation, doesn’t it? It’s hard to imagine even for us as humans, but if we had to train
 a machine to come up with this conversation, what might that look like?
 
-#  DATA
+#  Data
 - The data used comprises readily available scripts of two different TV shows containing all the episodes
 of each series, Friends script and Game of Thrones script.
 - We need not label the data exclusively, the model we use/train is going to be self-supervised and it will
